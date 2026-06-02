@@ -10,3 +10,6 @@
 ## Blocker:
 
 - ไม่เข้าใจในการใช้ github จึงต้องศึกษาเพิ่มเติม
+
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/32c5cccd-8416-4709-a4be-5ba5b5e711da" />
+<img width="1913" height="907" alt="image" src="https://github.com/user-attachments/assets/1c694bcc-b85c-4a80-9416-f3b0297b88b5" />
