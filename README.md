@@ -22,7 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
-| Peerakarn Tunsuriwong | Team 13 |PM| evidence link: | - |
+| Peerakarn Tunsuriwong | Team 13 |PM| evidence link: https://github.com/67050160Peerakarn/github101-practice/blob/1061b0032d268d11acd92e96fe0f370e9db06d0c/docs/evidence/67050160-Peerakarn.md | - |
 
 ---
 
